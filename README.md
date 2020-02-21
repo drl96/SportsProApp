@@ -12,10 +12,10 @@ SportsPro is a hypothetical software company that develops software for sports l
 
 ### Register product to customer:
 
-![Successful Registration](Resources\Successful Registration.PNG)
+![Successful Registration](https://github.com/drl96/SportsProApp/blob/master/Resources/Successful%20Registration.PNG)
 
-![Registration that Already Exists](Resources\Registration that Already Exists.PNG)
+![Registration that Already Exists](https://github.com/drl96/SportsProApp/blob/master/Resources/Registration%20that%20Already%20Exists.PNG)
 
 ### Incidents by Technician View:
 
-![IncidentsByTechnician](Resources\IncidentsByTechnician.PNG)
+![IncidentsByTechnician](https://github.com/drl96/SportsProApp/blob/master/Resources/IncidentsByTechnician.PNG)
