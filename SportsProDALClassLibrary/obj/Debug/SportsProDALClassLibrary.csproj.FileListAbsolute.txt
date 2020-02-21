@@ -1,0 +1,42 @@
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment2DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment2DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment2DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment2DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment2DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment2DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\Assignment3DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\Assignment3DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\work in progress\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\work in progress\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\work in progress\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\work in progress\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\work in progress\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\School\CIS 3325\~C# WORKSPACE~\work in progress\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\--Old Stuff--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\--Old Stuff--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\--Old Stuff--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\--Old Stuff--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\--Old Stuff--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\--Old Stuff--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\--OLD CLASSES--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\--OLD CLASSES--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.pdb
+C:\Users\Drew Leonard\iCloudDrive\--OLD CLASSES--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\--OLD CLASSES--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\--OLD CLASSES--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.dll
+C:\Users\Drew Leonard\iCloudDrive\--OLD CLASSES--\2018-19\Fall 2018\CIS 3325\Assignment3DrewLeonard\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.pdb
+C:\CIS3323Altered\SportsProApp\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.dll
+C:\CIS3323Altered\SportsProApp\SportsProDALClassLibrary\bin\Debug\SportsProDALClassLibrary.pdb
+C:\CIS3323Altered\SportsProApp\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csprojAssemblyReference.cache
+C:\CIS3323Altered\SportsProApp\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.csproj.CoreCompileInputs.cache
+C:\CIS3323Altered\SportsProApp\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.dll
+C:\CIS3323Altered\SportsProApp\SportsProDALClassLibrary\obj\Debug\SportsProDALClassLibrary.pdb
