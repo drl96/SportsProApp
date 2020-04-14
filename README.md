@@ -1,6 +1,6 @@
 # Sports-Pro Database Application
 
-## Technologies used: 
+## Technologies Used: 
 
 C#, SQL Server 2016, Visual Studio 2017
 
